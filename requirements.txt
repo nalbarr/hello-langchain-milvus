@@ -1,0 +1,8 @@
+pymilvus
+langchain
+openai
+tiktoken
+
+bs4
+
+podman-compose
