@@ -2,7 +2,7 @@ from os import environ
 
 MILVUS_HOST = "localhost"
 MILVUS_PORT = "19530"
-OPENAI_API_KEY = "sk-mbpiinYwQgyz9l8OQGPiT3BlbkFJyiCDkjZG44SdReyxAm9As"
+OPENAI_API_KEY = "CHANGEME"
 
 ## Set up environment variables
 environ["OPENAI_API_KEY"] = OPENAI_API_KEY
